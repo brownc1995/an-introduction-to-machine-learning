@@ -1,4 +1,4 @@
-# machine-learning
+# machine-learning-notes
 
 This project contains a range of materials related to Machine Learning and Deep 
 Learning.
@@ -10,6 +10,5 @@ deep learning. The writing of this paper was aided greatly by Dr Andrew Ng's
 courses on [Machine Learning](https://www.coursera.org/learn/machine-learning) 
 and [Deep Learning](https://www.coursera.org/specializations/deep-learning?).
 
-## TensorFlow
-A range of examples and mini-projects can be found in the 
-[TensorFlow](tensorflow) directory.
+You should feel free to download and distribute the notes 
+if you desire.
